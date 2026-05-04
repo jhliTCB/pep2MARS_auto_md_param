@@ -1,0 +1,16 @@
+
+name: p4dev
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+  - conda-forge
+dependencies:
+  - psi4
+  - python=3.10
+  - rdkit
+  - ca-certificates
+  - openssl
+  - resp
+prefix: /public/home/lijunhao/soft/conda_envs/p4dev

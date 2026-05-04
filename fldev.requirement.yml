@@ -1,0 +1,25 @@
+name: fldev
+channels:
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/r
+  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/msys2
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ca-certificates
+  - openssl
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - rdkit
+  - certifi
+  - markupsafe
+  - gevent
+  - oss2
+  - mdanalysis
+  - nodejs
+  - pymol-open-source
+prefix: /public/home/lijunhao/soft/conda_envs/fldev

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="181.00545mm"
+   height="123.91319mm"
+   viewBox="0 0 181.00545 123.91319"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="workflow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72426347"
+     inkscape:cx="584.73196"
+     inkscape:cy="101.48241"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.708876,-9.0296114)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-30.889014,-29.555458)"
+       id="g99">
+      <path
+         d="m 441.5,259.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 170.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 452.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path1" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(463.918,266)"
+         id="text1">Derive f</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(514.098,266)"
+         id="text2">ormal charge</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(599.411,266)"
+         id="text3">s:</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(460.738,285)"
+         id="text4">isolated small molecule</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(477.051,304)"
+         id="text5">and capped blocks</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(237.121,540)"
+         id="text6">Yes</text>
+      <path
+         d="m 174.5,153.5 c 0,-3.866 3.134,-7 7,-7 h 170 c 3.866,0 7,3.134 7,7 v 28 c 0,3.866 -3.134,7 -7,7 h -170 c -3.866,0 -7,-3.134 -7,-7 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#6fffdc"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path6" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(216.616,162)"
+         id="text7">Initial prepared</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(189.669,181)"
+         id="text8">structure in PDB format</text>
+      <path
+         d="m 267,188 v 17.629 h -2 V 188 Z m 3,16.296 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path8" />
+      <path
+         d="m 166.5,216.667 c 0,-2.301 1.866,-4.167 4.167,-4.167 h 191.666 c 2.302,0 4.167,1.866 4.167,4.167 v 16.666 c 0,2.302 -1.865,4.167 -4.167,4.167 H 170.667 c -2.301,0 -4.167,-1.865 -4.167,-4.167 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path9" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(181.059,230)"
+         id="text9">List</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(206.546,230)"
+         id="text10">non</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(231.713,230)"
+         id="text11">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(236.546,230)"
+         id="text12">standard</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(297.119,230)"
+         id="text13">residue</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(345.073,230)"
+         id="text14">s</text>
+      <path
+         d="m 194.5,267.833 c 0,-3.497 2.836,-6.333 6.333,-6.333 h 131.334 c 3.497,0 6.333,2.836 6.333,6.333 v 25.334 c 0,3.497 -2.836,6.333 -6.333,6.333 H 200.833 c -3.497,0 -6.333,-2.836 -6.333,-6.333 z"
+         stroke="#1f6350"
+         stroke-miterlimit="8"
+         fill="#ffcc4c"
+         fill-rule="evenodd"
+         fill-opacity="0.6"
+         id="path14" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(207.459,276)"
+         id="text15">Has</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(235.126,276)"
+         id="text16">connection to</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(215.759,295)"
+         id="text17">other residues?</text>
+      <path
+         d="m 267,237 v 17.652 h -2 V 237 Z m 3,16.319 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path17" />
+      <path
+         d="m 338,279 h 96.493 v 2 H 338 Z m 95.159,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         id="path18" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(368.407,276)"
+         id="text18">No</text>
+      <path
+         d="m 267,299 v 17.607 h -2 V 299 Z m 3,16.273 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path19" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(271.845,316)"
+         id="text19">Yes</text>
+      <path
+         d="m 671.5,259.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 114.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 682.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path20" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(693.618,266)"
+         id="text20">Derive</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(739.298,266)"
+         id="text21">atomic</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(686.431,285)"
+         id="text22">charges</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(739.911,285)"
+         id="text23">by RESP</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(705.291,304)"
+         id="text24">procedure</text>
+      <path
+         d="m 174.5,331.5 c 0,-3.866 3.134,-7 7,-7 h 170 c 3.866,0 7,3.134 7,7 v 28 c 0,3.866 -3.134,7 -7,7 h -170 c -3.866,0 -7,-3.134 -7,-7 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path24" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(202.319,340)"
+         id="text25">Get d</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(237.733,340)"
+         id="text26">ictionary</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(298.146,340)"
+         id="text27">of all</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(186.799,359)"
+         id="text28">NCAAs</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(234.299,359)"
+         id="text29">with connections</text>
+      <path
+         d="m 267,366 v 17.629 h -2 V 366 Z m 3,16.296 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path29" />
+      <path
+         d="m 202.5,399.667 c 0,-5.063 4.104,-9.167 9.167,-9.167 h 109.666 c 5.063,0 9.167,4.104 9.167,9.167 v 36.666 c 0,5.063 -4.104,9.167 -9.167,9.167 H 211.667 c -5.063,0 -9.167,-4.104 -9.167,-9.167 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path30" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(232.776,404)"
+         id="text30">Classif</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(273.856,404)"
+         id="text31">y</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(284.689,404)"
+         id="text32">all</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(215.716,423)"
+         id="text33">connections for</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(216.009,442)"
+         id="text34">different blocks</text>
+      <path
+         d="m 207.5,479.667 c 0,-5.063 4.104,-9.167 9.167,-9.167 h 100.666 c 5.063,0 9.167,4.104 9.167,9.167 v 36.666 c 0,5.063 -4.104,9.167 -9.167,9.167 H 216.667 c -5.063,0 -9.167,-4.104 -9.167,-9.167 z"
+         stroke="#1f6350"
+         stroke-miterlimit="8"
+         fill="#ffcc4c"
+         fill-rule="evenodd"
+         fill-opacity="0.6"
+         id="path34" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(220.733,483)"
+         id="text35">Has backbone</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(221.293,502)"
+         id="text36">connection to</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(222.473,521)"
+         id="text37">other blocks?</text>
+      <path
+         d="m 267,445 v 17.629 h -2 V 445 Z m 3,16.296 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path37" />
+      <path
+         d="m 326,496 h 48.391 v 2 H 326 Z m 47.058,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         id="path38" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(338.908,491)"
+         id="text38">No</text>
+      <path
+         d="M 1,-4.32119e-6 1.00008,17.6292 H -0.999924 L -1,4.32119e-6 Z M 4.00007,16.2958 1.04987e-4,24.2959 -3.99993,16.2959 Z"
+         fill="#2a846b"
+         transform="matrix(-1,0,0,1,266,525)"
+         id="path39" />
+      <path
+         d="m 381.5,479.667 c 0,-5.063 4.104,-9.167 9.167,-9.167 h 94.666 c 5.063,0 9.167,4.104 9.167,9.167 v 36.666 c 0,5.063 -4.104,9.167 -9.167,9.167 h -94.666 c -5.063,0 -9.167,-4.104 -9.167,-9.167 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path40" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(424.334,483)"
+         id="text40">Add</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(405.84,502)"
+         id="text41">NME</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(437.674,502)"
+         id="text42">/ACE</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(394.4,521)"
+         id="text43">cap</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(420.767,521)"
+         id="text44">by</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(439.854,521)"
+         id="text45">pymol</text>
+      <path
+         d="m 453.5,560.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 146.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 464.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path45" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(477.217,567)"
+         id="text46">Add</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(506.884,567)"
+         id="text47">NME</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(538.717,567)"
+         id="text48">/ACE cap</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(466.357,586)"
+         id="text49">from</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(501.431,586)"
+         id="text50">the backbone of</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(472.084,605)"
+         id="text51">neighboring residue</text>
+      <path
+         d="m 536.257,549.164 -0.242,-109.495 2,-0.005 0.242,109.496 z M 533.018,441.009 537,433 l 4.018,7.991 z"
+         fill="#2a846b"
+         id="path51" />
+      <path
+         d="m 648.5,348.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 159.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 659.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#b7ffee"
+         fill-rule="evenodd"
+         fill-opacity="0.301961"
+         id="path52" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(661.173,356)"
+         id="text52">Parameter files for</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(785.073,356)"
+         id="text53">each</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(670.646,375)"
+         id="text54">block (.lib/.prep) and</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(670.466,394)"
+         id="text55">connection</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(746.666,394)"
+         id="text56">(.</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(755.186,394)"
+         id="text57">frcmod</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(801.786,394)"
+         id="text58">)</text>
+      <path
+         d="m 603.009,166 39.704,0.344 -0.018,2 L 602.991,168 Z m 38.396,-2.667 7.965,4.069 -8.034,3.93 z"
+         fill="#2a846b"
+         id="path58" />
+      <path
+         d="m 740,400.996 0.155,39.882 -2,0.007 L 738,401.004 Z m 3.15,38.537 -3.969,8.015 -4.031,-7.984 z"
+         fill="#2a846b"
+         id="path59" />
+      <path
+         d="m 658.5,459.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 140.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 669.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path60" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(680.421,466)"
+         id="text60">Process</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(733.661,466)"
+         id="text61">situations</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(688.387,485)"
+         id="text62">with</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(720.887,485)"
+         id="text63">backbone</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(784.221,485)"
+         id="text64">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(671.394,504)"
+         id="text65">backbone</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(738.394,504)"
+         id="text66">cyclisation</text>
+      <path
+         d="m 633,279 h 31.358 v 2 H 633 Z m 30.025,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         id="path66" />
+      <path
+         d="m 645.5,560.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 165.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 656.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#6fffdc"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path67" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(664.524,567)"
+         id="text67">System parameter files</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(661.338,586)"
+         id="text68">(.</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(670.171,586)"
+         id="text69">prmtop</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(718.704,586)"
+         id="text70">, .</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(730.371,586)"
+         id="text71">inpcrd</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(771.151,586)"
+         id="text72">) ready</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(679.958,605)"
+         id="text73">for MD simulation</text>
+      <path
+         d="M 1,-4.15174e-6 1.00008,18.6208 H -0.999923 L -1,4.15174e-6 Z M 4.00007,17.2874 1.04987e-4,25.2875 -3.99993,17.2875 Z"
+         fill="#2a846b"
+         transform="matrix(-1,0,0,1,739,312)"
+         id="path73" />
+      <path
+         d="m 186.5,560.167 c 0,-5.891 4.776,-10.667 10.667,-10.667 h 138.666 c 5.891,0 10.667,4.776 10.667,10.667 v 42.666 c 0,5.891 -4.776,10.667 -10.667,10.667 H 197.167 c -5.891,0 -10.667,-4.776 -10.667,-10.667 z"
+         stroke="#1f6350"
+         stroke-miterlimit="8"
+         fill="#ffcc4c"
+         fill-rule="evenodd"
+         fill-opacity="0.6"
+         id="path74" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(219.226,567)"
+         id="text74">Two backbone</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(204.466,586)"
+         id="text75">connection sharing</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(206.673,605)"
+         id="text76">the same residue?</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(165.615,502)"
+         id="text77">Yes</text>
+      <path
+         d="m 346,580 h 100.125 v 2 H 346 Z m 98.791,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         id="path77" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="700"
+         font-size="16px"
+         transform="translate(386.391,575)"
+         id="text78">No</text>
+      <path
+         d="m 740,512 v 30.862 h -2 V 512 Z m 3,29.528 -4,8 -4,-8 z"
+         fill="#2a846b"
+         id="path78" />
+      <path
+         d="m 449.5,153.5 c 0,-3.866 3.134,-7 7,-7 h 140 c 3.866,0 7,3.134 7,7 v 28 c 0,3.866 -3.134,7 -7,7 h -140 c -3.866,0 -7,-3.134 -7,-7 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#4cc1ef"
+         fill-rule="evenodd"
+         fill-opacity="0.501961"
+         id="path79" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(463.942,162)"
+         id="text79">Rename duplicated</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(479.016,181)"
+         id="text80">residue names</text>
+      <path
+         d="M 0,-1 H 6 V 1 H 0 Z m 8,0 h 6 V 1 H 8 Z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 3.1197 v 4.8803 h -2 V 0 l 1,1 H 72 Z m 3.1197,6.8803 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,7.9997 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 6 h -2 v -6 z m 0,8 v 5.214 l -1,-1 h 0.7862 v 2 h -1.7862 v -6.214 z m 1.7862,4.214 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m 8.0001,0 h 6 v 2 h -6 z m 8,0 h 3.868 v 2 h -3.868 z m 2.534,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         transform="matrix(1,0,0,-1,330,418.094)"
+         id="path80" />
+      <path
+         d="M 1,-2.41612e-6 1.00009,36.786 H -0.999911 L -1,2.41612e-6 Z M 4.00009,35.4527 l -3.999985013,8 -4.000014987,-8 z"
+         fill="#2a846b"
+         transform="matrix(1,0,0,-1,537,355.453)"
+         id="path81" />
+      <rect
+         x="453"
+         y="356"
+         width="168"
+         height="77"
+         stroke="#f19a43"
+         stroke-width="2"
+         stroke-linecap="square"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-dasharray="6, 2"
+         fill="none"
+         id="rect81" />
+      <text
+         fill="#404040"
+         font-family="Wingdings, Wingdings_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(462.538,371)"
+         id="text81"></text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(480.538,371)"
+         id="text82">mono</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(518.705,371)"
+         id="text83">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(523.538,371)"
+         id="text84">residue block</text>
+      <text
+         fill="#404040"
+         font-family="Wingdings, Wingdings_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(462.538,390)"
+         id="text85"></text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(480.538,390)"
+         id="text86">di</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(492.538,390)"
+         id="text87">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(497.372,390)"
+         id="text88">residue block</text>
+      <text
+         fill="#404040"
+         font-family="Wingdings, Wingdings_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(462.538,409)"
+         id="text89"></text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(480.538,409)"
+         id="text90">tri</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(495.038,409)"
+         id="text91">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(499.872,409)"
+         id="text92">residue block</text>
+      <text
+         fill="#404040"
+         font-family="Wingdings, Wingdings_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(462.538,429)"
+         id="text93"></text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(480.538,429)"
+         id="text94">tetra</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(511.785,429)"
+         id="text95">-</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(516.618,429)"
+         id="text96">residue block</text>
+      <path
+         d="m 0,1 h -24.0001 l 1,-1 v 163.553 l -1,-1 H 9.45543 v 2 H -25.0001 V -1 H 0 Z m 8.1221,158.553 8,4 -8,4 z"
+         fill="#2a846b"
+         transform="matrix(1,0,0,-1,186,581.553)"
+         id="path96" />
+      <path
+         d="m 814,166 h 31.115 v 314.844 h -18.303 v -2 h 17.303 l -1,1 V 167 l 1,1 H 814 Z m 14.145,317.844 -8,-4 8,-4 z"
+         fill="#2a846b"
+         id="path97" />
+      <path
+         d="m 650.5,153.5 c 0,-3.866 3.134,-7 7,-7 h 150 c 3.866,0 7,3.134 7,7 v 28 c 0,3.866 -3.134,7 -7,7 h -150 c -3.866,0 -7,-3.134 -7,-7 z"
+         stroke="#1f6350"
+         stroke-width="1.33333"
+         stroke-miterlimit="8"
+         fill="#b7ffee"
+         fill-rule="evenodd"
+         fill-opacity="0.301961"
+         id="path98" />
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(662.304,163)"
+         id="text98">New PDB file without</text>
+      <text
+         fill="#404040"
+         font-family="Calibri, Calibri_MSFontService, Arial"
+         font-weight="400"
+         font-size="16px"
+         transform="translate(679.271,182)"
+         id="text99">hydrogen atoms</text>
+      <path
+         d="m 494,496 h 36.399 v 2 H 494 Z m 35.066,-3 8,4 -8,4 z"
+         fill="#2a846b"
+         id="path99" />
+    </g>
+  </g>
+</svg>
