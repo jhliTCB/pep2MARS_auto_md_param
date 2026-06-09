@@ -241,5 +241,16 @@ There are also a few implementation details where the safest approach is to foll
 This workflow depends on Gaussian (optional choice) and Amber/AmberTools. Gaussian is commercial software, and Amber (gpu part) is also commercial software. Please ensure that you have access to the required licensed software before attempting to run the full pipeline.
 
 ## Citation
-
-To be added when the paper published
+```Bibtex
+@article{Li2026Pep2MARS,
+  title   = {Pep2MARS: Automated Cyclic Peptide Parameterization for Molecular Dynamics and Compound Design},
+  author  = {Li, Junhao and Qian, Yue},
+  journal = {Journal of Chemical Information and Modeling},
+  year    = {2026},
+  volume  = {66},
+  number  = {11},
+  pages   = {6211--6217},
+  doi     = {10.1021/acs.jcim.6c00340},
+  url     = {https://doi.org/10.1021/acs.jcim.6c00340}
+}
+```
